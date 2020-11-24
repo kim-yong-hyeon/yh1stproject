@@ -11,4 +11,4 @@ agegroup varchar2(30));
 select * from membership;
 
 // 데이터 추가
-insert into membership values ('inju','123456', '여', 'dlswn0808@naver.com', '20대')
+insert into membership values ('yh','1234', '남', 'dydgus1325@naver.com', '20대')

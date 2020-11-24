@@ -4,7 +4,7 @@ gegu varchar2(30),
 name varchar2(30),
 address varchar2(30),
 tel varchar2(30),
-homepage varchar2(30))
+homepage varchar2(30));
 
 select * from place
 
